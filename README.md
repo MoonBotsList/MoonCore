@@ -1,4 +1,4 @@
-# ZuraaaCore
+# MoonCore
 
 Principal api e controle de todo o site da [MoonBots](https://github.com/MoonBotsList/MoonSite) (WIP)
 
