@@ -1,6 +1,6 @@
 # ZuraaaCore
 
-Principal api e controle de todo o site [Zuraaa](https://github.com/zuraaa-projects/Zuraaa.com) (WIP)
+Principal api e controle de todo o site da [MoonBots](https://github.com/MoonBotsList/MoonSite) (WIP)
 
 ## Estilo de código
 
@@ -8,11 +8,11 @@ Principal api e controle de todo o site [Zuraaa](https://github.com/zuraaa-proje
 
 ## Como usar
 
-**⚠ Esse projeto precisa de uma instância do [MongoDB](https://www.mongodb.com/), de uma instância [RabbitMQ](https://www.rabbitmq.com/) e de uma instância do [ZuraaaBot](https://github.com/zuraaa-projects/ZuraaaBot) para funcionar ⚠**
+**⚠ Esse projeto precisa de uma instância do [MongoDB](https://www.mongodb.com/), de uma instância [RabbitMQ](https://www.rabbitmq.com/) e de uma instância do [MoonBot](https://github.com/MoonBotsList/MoonBot) para funcionar ⚠**
 
 - Primeiro clone o repositório:
 ```sh
-$ git clone https://github.com/zuraaa-projects/ZuraaaCore.git
+$ git clone https://github.com/MoonBotsList/MoonCore.git
 ```
 
 - Inicialize as dependências:
@@ -29,7 +29,7 @@ $ npm start
 
 ### Suporte
 
-- Suporte feito através do nosso [Discord](https://discord.gg/EShHzNtVAb)
+- Suporte feito através do nosso [Discord](https://moonbotslist.xyz/discord)
 
 ### Fair Use
 
