@@ -1,0 +1,64 @@
+{
+    "mongo": {
+        "uri": "mongodb+srv://cluster1:230307tulio@cluster0.mmvjm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    },
+    "rabbit": {
+      "url": "amqp://localhost"
+    },
+    "captcha": {
+      "enabled": false,
+      "secret": "6LdkaiMdAAAAAND_T9w_1wArKFNTDoXxTsg6AgVv"
+    },
+    "discord": {
+        "app": {
+            "id": "871973045584142397",
+            "secret": "",
+            "scope": "identify",
+            "redirect": "https://moonbotslist.xyz/oauth2/callback"
+        },
+        "bot": {
+            "token": ""
+        },
+        "channels": {
+          "logReport": "794295185802264586",
+          "logVote": "906158700086034492",
+          "logBan": "906158608096563210",
+          "logBotValidation": "794305596647931905"
+        },
+        "guilds": {
+          "teste": "794559734216523776",
+          "main": "793570576173105193"
+        },
+        "url": {
+          "apiBaseUrl": "https://api.moonbotslist.xyz/",
+          "siteBaseUrl": "https://moonbotslist.xyz/"
+        },
+        "roles": {
+          "admRole": "794295143405715506",
+          "developer": "794295151588802610",
+          "checker": "794295146224549918",
+          "siteMod": "905173142924853249"
+        },
+        "getServers": {
+          "enabled": false,
+          "url": ""
+        }
+    },
+    "jwt": {
+        "secret": "ZileNFaHwpwcDqLPs1yJ52tLw5h9f3AkQuU3fdAWa0cUHAj8YCdpEzXotvYP2AjdGUP7siCVrHn7Snqa3B5BRZHeHWm0D1xAgoIDwbDYJfcKzXUX8YR5Vqe0sSvkBj",
+        "authorized_clients": [
+            {
+                "secret": "6RhSFn3buaWEhS6CudUy4MLwp9RSjS8Vnabe69wdh8hJgI2JtbwMLKvM1FXvtPeHNWLCHPvAj5etsw1pZuhjRCSsrlLEq4njnXsToszgHyvtxAfdDJ5Ugme3cyeT2l",
+                "type": "bot"
+            },
+            {
+                "secret": "1xUq3yOJTfiCs2aNodYUjxmksQ9XwpYshwgbj3UNx8AooSbkffnCGIXbc1mFLaXmPgbhc8HhMhDDtItu34RD2Qzryb1tEgvaVik8jNTY5TZHiY1dt85IISBGVr4zlT",
+                "type": "code"
+            }
+        ]
+    },
+    "server": {
+        "port": 3000,
+        "prefix": ""
+    }
+}
